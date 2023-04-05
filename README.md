@@ -1,5 +1,7 @@
 # MVVMPractice
 
+**NOTICE: This repository is for practice and training purposes only**
+
 This is a practices file used for learning MVVM through various 3rd party tutorials. 
 
 ***A lot of code written here is taken from tutorials for learning purposes so that myself and possibly others can write out and learn from what is written through various methods***. 
